@@ -4,8 +4,6 @@ footer {
 }
 </style>
 
-# Wisse Bos
-
 #### PhD Candidate in Experimental Economics  
 #### GATE CNRS & Emlyon Business School
 
