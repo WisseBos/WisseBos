@@ -1,3 +1,9 @@
+<style>
+footer {
+  display: none !important;
+}
+</style>
+
 # Wisse Bos
 
 #### PhD Candidate in Experimental Economics  
@@ -5,7 +11,7 @@
 
 📞 +31623792991  
 📧 Wisse.bos01@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/wissebos)
+🔗 [LinkedIn](https://www.linkedin.com/in/wissebos)
 
 ---
 
