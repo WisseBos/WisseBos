@@ -54,7 +54,7 @@ Subject: **Cooperation Incentives & Collective Learning in Online Social Network
 _2025, Sep-Dec_
 
 **Accelerated to PhD**  
-GPA: **8.6/10** prior to moving to Lyon as a PhD candidate
+GPA: **8.6/10** prior to moving to Lyon as a PhD candidate  
 Key Concepts:
 - Data Cleaning & Analytics
 - Neural Networks
@@ -70,17 +70,17 @@ Additional role:
 **University of Amsterdam**  
 _2024 - 2025_
 
-GPA: **8.3/10**
+GPA: **8.3/10**  
 Master Thesis: **Belief Formation on Social Media: A Bayesian Approach**  
-Grade: **8.5/10**
-Key Concepts:
+Grade: **8.5/10**  
+Key Concepts:  
 - Computational Models
 - Online Behavioural Experiments
 - Game Theory
 - Bayesian Modeling
 - (Mis)Information Diffusion
 
-Additional role:
+Additional role:  
 - Study Representative
 
 ---
@@ -89,7 +89,7 @@ Additional role:
 **Eindhoven University of Technology**  
 _2019 - 2022_
 
-Key Concepts:
+Key Concepts:  
 - Algorithmic Programming
 - Statistics
 - Mathematics
