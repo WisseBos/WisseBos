@@ -18,11 +18,7 @@ footer {
 <h2>Profile</h2>
 
 <p>
-I am motivated to study how social networks shape human decision-making.
-My research interests include experimental economics, game theory,
-computational social science, agent-based modeling, and (mis)information diffusion.
-I am goal-oriented, organized, and disciplined, and I see collaborative teamwork
-as a crucial ingredient for producing high-quality research.
+I am motivated to understand how social networks shape human decision-making. My research combines theoretical models, agent-based simulations, and experiments to study cooperation, belief formation, and the diffusion of information and misinformation in social networks.
 </p>
 
 <h2>Research Interests</h2>
