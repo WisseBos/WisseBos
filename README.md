@@ -28,13 +28,10 @@ as a crucial ingredient for producing high-quality research.
 <h2>Research Interests</h2>
 
 <div class="interest-tags">
-  <span>Experimental economics</span>
-  <span>Game theory</span>
-  <span>Computational social science</span>
+  <span>Experimental Economics</span>
+  <span>Social Networks</span>
+  <span>Game Theory</span>
   <span>Agent-based modeling</span>
-  <span>Human network analysis</span>
-  <span>Online behavioural experiments</span>
-  <span>Belief formation</span>
   <span>(Mis)information diffusion</span>
   <span>Collective learning</span>
   <span>AI agents</span>
