@@ -4,36 +4,6 @@ footer {
 }
 </style>
 
-#### PhD Candidate in Experimental Economics  
-#### GATE CNRS & Emlyon Business School
-
-📞 +31623792991  
-📧 Wisse.bos01@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/wissebos)
-
----
-
-## Profile
-
-I am motivated to study how social networks shape human decision-making. My research interests include experimental economics, game theory, computational social science, agent-based modeling, and (mis)information diffusion. I am goal-oriented, organized, and disciplined, and I see collaborative teamwork as a crucial ingredient for producing high-quality research.
-
----
-
-## Research Interests
-
-- Experimental economics
-- Game theory
-- Computational social science
-- Agent-based modeling
-- Human network analysis
-- Online behavioural experiments
-- Belief formation
-- (Mis)information diffusion
-- Collective learning in online social networks
-- AI agents
-
----
-
 ## Educational Background
 
 ### PhD Candidate in Experimental Economics  
