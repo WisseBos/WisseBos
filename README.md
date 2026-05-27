@@ -6,13 +6,14 @@ footer {
 
 <div class="intro-card">
 
-<p><strong>GATE CNRS & Emlyon Business School</strong></p>
+<p class="intro-role">PhD Candidate in Experimental Economics</p>
+<p class="intro-affiliation">GATE CNRS & Emlyon Business School</p>
 
-<p>
-📞 +31623792991<br>
-📧 <a href="mailto:bos@gate.cnrs.fr">bos@gate.cnrs.fr</a><br>
-🔗 <a href="https://www.linkedin.com/in/wissebos">LinkedIn</a>
-</p>
+<div class="contact-box">
+  <span>📞 +31623792991</span><br>
+  <span>📧 <a href="mailto:bos@gate.cnrs.fr">bos@gate.cnrs.fr</a></span><br>
+  <span>🔗 <a href="https://www.linkedin.com/in/wissebos">LinkedIn</a></span>
+</div>
 
 <h2>Profile</h2>
 
@@ -26,16 +27,18 @@ as a crucial ingredient for producing high-quality research.
 
 <h2>Research Interests</h2>
 
-<ul>
-  <li>Experimental economics</li>
-  <li>Social Networks</li>
-  <li>Game theory</li>
-  <li>Agent-based modeling</li>
-  <li>Online behavioural experiments</li>
-  <li>Belief formation</li>
-  <li>(Mis)information diffusion</li>
-  <li>AI agents</li>
-</ul>
+<div class="interest-tags">
+  <span>Experimental economics</span>
+  <span>Game theory</span>
+  <span>Computational social science</span>
+  <span>Agent-based modeling</span>
+  <span>Human network analysis</span>
+  <span>Online behavioural experiments</span>
+  <span>Belief formation</span>
+  <span>(Mis)information diffusion</span>
+  <span>Collective learning</span>
+  <span>AI agents</span>
+</div>
 
 </div>
 
