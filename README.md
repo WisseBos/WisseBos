@@ -55,16 +55,13 @@ _2025, Sep-Dec_
 
 **Accelerated to PhD**  
 GPA: **8.6/10** prior to moving to Lyon as a PhD candidate
-
 Key Concepts:
-
 - Data Cleaning & Analytics
 - Neural Networks
 - Large Language Models
 - Human Network Analysis
 
 Additional role:
-
 - Vice-chair, Education Advisory Committee Utrecht University
 
 ---
@@ -74,12 +71,9 @@ Additional role:
 _2024 - 2025_
 
 GPA: **8.3/10**
-
 Master Thesis: **Belief Formation on Social Media: A Bayesian Approach**  
 Grade: **8.5/10**
-
 Key Concepts:
-
 - Computational Models
 - Online Behavioural Experiments
 - Game Theory
@@ -87,7 +81,6 @@ Key Concepts:
 - (Mis)Information Diffusion
 
 Additional role:
-
 - Study Representative
 
 ---
@@ -97,15 +90,12 @@ Additional role:
 _2019 - 2022_
 
 Key Concepts:
-
 - Algorithmic Programming
 - Statistics
 - Mathematics
 - Information Systems
 - Sustainable Innovation
 - Quality and Process Optimalization
-
----
 
 ## Relevant Activities
 
@@ -139,8 +129,6 @@ _2022 - 2024_
 
 Responsible for managing the team and acquiring funding to achieve the goal of building and testing an energy-efficient solar vehicle in one year.
 
----
-
 ## Funding
 
 ### PhD Funding  
@@ -149,8 +137,6 @@ _2025 - 2028_
 Funded by **PEPR eNSEMBLE – “Futur de la collaboration numérique”**, France 2030, operated by the **Agence Nationale de la Recherche (ANR)**.
 
 Programme page: [https://www.pepr-ensemble.fr/](https://www.pepr-ensemble.fr/)
-
----
 
 ## Computer Skills
 
@@ -165,8 +151,6 @@ Programme page: [https://www.pepr-ensemble.fr/](https://www.pepr-ensemble.fr/)
 - R
 - IBM SPSS
 - Stata Statistics
-
----
 
 ## Languages
 
