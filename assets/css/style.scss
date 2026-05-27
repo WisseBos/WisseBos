@@ -71,3 +71,24 @@ strong {
 footer {
   display: none !important;
 }
+
+.intro-card {
+  background: #ffffff;
+  border-left: 4px solid #2b7bb9;
+  padding: 18px 22px;
+  margin-bottom: 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(31, 95, 139, 0.08);
+}
+
+.intro-card h2 {
+  margin-top: 22px;
+  color: #1f5f8b;
+  border-bottom: 1px solid #c9dceb;
+}
+
+.intro-card p,
+.intro-card li {
+  font-size: 15px;
+  line-height: 1.55;
+}
