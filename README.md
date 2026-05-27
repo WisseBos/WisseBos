@@ -4,6 +4,43 @@ footer {
 }
 </style>
 
+<div class="intro-card">
+
+<p><strong>GATE CNRS & Emlyon Business School</strong></p>
+
+<p>
+📞 +31623792991<br>
+📧 <a href="mailto:bos@gate.cnrs.fr">bos@gate.cnrs.fr</a><br>
+🔗 <a href="https://www.linkedin.com/in/wissebos">LinkedIn</a>
+</p>
+
+<h2>Profile</h2>
+
+<p>
+I am motivated to study how social networks shape human decision-making.
+My research interests include experimental economics, game theory,
+computational social science, agent-based modeling, and (mis)information diffusion.
+I am goal-oriented, organized, and disciplined, and I see collaborative teamwork
+as a crucial ingredient for producing high-quality research.
+</p>
+
+<h2>Research Interests</h2>
+
+<ul>
+  <li>Experimental economics</li>
+  <li>Game theory</li>
+  <li>Computational social science</li>
+  <li>Agent-based modeling</li>
+  <li>Human network analysis</li>
+  <li>Online behavioural experiments</li>
+  <li>Belief formation</li>
+  <li>(Mis)information diffusion</li>
+  <li>Collective learning in online social networks</li>
+  <li>AI agents</li>
+</ul>
+
+</div>
+
 ## Educational Background
 
 ### PhD Candidate in Experimental Economics  
