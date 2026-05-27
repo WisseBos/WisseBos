@@ -92,3 +92,52 @@ footer {
   font-size: 15px;
   line-height: 1.55;
 }
+
+.intro-card {
+  background: #ffffff;
+  border-left: 5px solid #2b7bb9;
+  padding: 24px 28px;
+  margin-bottom: 36px;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(31, 95, 139, 0.10);
+}
+
+.intro-role {
+  font-size: 18px;
+  font-weight: 700;
+  color: #173b5c;
+  margin-bottom: 4px;
+}
+
+.intro-affiliation {
+  font-size: 16px;
+  font-weight: 600;
+  color: #244e73;
+  margin-bottom: 18px;
+}
+
+.contact-box {
+  background: #f3f8fc;
+  border: 1px solid #c9dceb;
+  border-radius: 8px;
+  padding: 12px 14px;
+  margin-bottom: 22px;
+  line-height: 1.7;
+}
+
+.interest-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.interest-tags span {
+  background: #e7f1fa;
+  color: #17486c;
+  border: 1px solid #c9dceb;
+  border-radius: 999px;
+  padding: 6px 11px;
+  font-size: 14px;
+  font-weight: 500;
+}
