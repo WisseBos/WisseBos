@@ -28,14 +28,12 @@ as a crucial ingredient for producing high-quality research.
 
 <ul>
   <li>Experimental economics</li>
+  <li>Social Networks</li>
   <li>Game theory</li>
-  <li>Computational social science</li>
   <li>Agent-based modeling</li>
-  <li>Human network analysis</li>
   <li>Online behavioural experiments</li>
   <li>Belief formation</li>
   <li>(Mis)information diffusion</li>
-  <li>Collective learning in online social networks</li>
   <li>AI agents</li>
 </ul>
 
