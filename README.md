@@ -19,21 +19,23 @@ footer {
 <h2>Profile</h2>
 
 <p>
-I am motivated to understand how social networks shape human decision-making.
-My research combines theoretical models, agent-based simulations, and experiments
-to study cooperation, belief formation, and the diffusion of information and
-misinformation in social networks.
+I am currently a PhD candidate in Experimental Economics at GATE CNRS and Emlyon Business School, where I am interested to study how social networks shape human decision-making. My research combines theoretical models, agent-based simulations, and experiments to better understand cooperation, belief formation, and the diffusion of information and misinformation in social networks.
 </p>
 
 <p>
-My research path combines academic research, teaching, and applied project work.
-As a PhD candidate at GATE CNRS and Emlyon Business School, I study cooperation
-incentives and collective learning in online social networks with AI agents.
-Previously, I worked as a Research Assistant for the European Commission on
-behavioural economic research about government information, misinformation, and
-decision-making during natural disasters. I also gained teaching experience at
-the University of Amsterdam and applied organisational experience through roles
-at Symbol and Solar Team Eindhoven.
+Before starting my PhD at GATE CNRS and Emlyon Business School, I studied Applied
+Data Science at Utrecht University, where my work focused on data analytics,
+neural networks, large language models, and human network analysis. Prior to
+that, I completed a Master's degree in Neuroeconomics at the University of
+Amsterdam, where I wrote my thesis on belief formation on social media using a
+Bayesian approach. I started my academic path with a Bachelor's degree in
+Industrial Engineering at Eindhoven University of Technology.
+</p>
+
+<p>
+Alongside my studies, I gained research and teaching experience as a Research
+Assistant for the European Commission and as a Teaching Assistant at the
+University of Amsterdam. 
 </p>
 
 <h2>Research Interests</h2>
