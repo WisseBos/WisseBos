@@ -8,7 +8,7 @@ header img {
 }
 </style>
 
-[Home](./) | [CV](cv.md)
+[Home](README.md) | [CV](CV.md)
 
 # CV
 
