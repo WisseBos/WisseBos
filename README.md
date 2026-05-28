@@ -5,7 +5,7 @@ footer {
 </style>
 
 <div class="nav-tabs">
-  <a href="README.md">Home</a>
+  <a href="./">Home</a>
   <a href="CV.html">CV</a>
 </div>
 
