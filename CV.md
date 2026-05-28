@@ -2,10 +2,6 @@
 footer {
   display: none !important;
 }
-
-header img {
-  display: none !important;
-}
 </style>
 
 [Home](README.md) | [CV](CV.md)
