@@ -4,7 +4,7 @@ footer {
 }
 </style>
 
-[Home](./) | [CV](CV.md)
+[Home](README.md) | [CV](CV.md)
 
 <div class="intro-card">
 
