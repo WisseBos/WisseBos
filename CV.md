@@ -11,6 +11,13 @@ footer {
 
 # CV
 
+<div class="pdf-link-box">
+  <strong>Download PDF version</strong><br>
+  <a href="/assets/pdf/CV Wisse Bos.pdf" target="_blank">
+    Open Wisse Bos CV as PDF
+  </a>
+</div>
+
 ## Educational Background
 
 ### PhD Candidate in Experimental Economics  
