@@ -4,7 +4,10 @@ footer {
 }
 </style>
 
-[Home](README.md) | [CV](CV.md)
+<div class="nav-tabs">
+  <a href="README.md">Home</a>
+  <a href="CV.html">CV</a>
+</div>
 
 <div class="intro-card">
 
