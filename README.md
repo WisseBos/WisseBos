@@ -9,6 +9,8 @@ footer {
   <a href="CV.html">CV</a>
 </div>
 
+# Home
+
 <div class="intro-card">
 
 <p class="intro-role">PhD Candidate in Experimental Economics</p>
