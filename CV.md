@@ -12,7 +12,6 @@ footer {
 # CV
 
 <div class="pdf-link-box">
-  <strong>Download PDF version</strong><br>
   <a href="/assets/pdf/CV_Wisse_Bos.pdf" target="_blank">
     Open Wisse Bos CV as PDF
   </a>
